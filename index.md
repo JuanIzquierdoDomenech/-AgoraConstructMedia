@@ -1,11 +1,17 @@
-## Recursos para el curso de Construct
+# Recursos para el curso de Construct
 
+
+## Sprite Vs. Spritesheet
+
+* [Recursos para el ejercicio](https://juanizquierdodomenech.github.io/agora.construct.media/resources/ej1_sprite_vs_spritesheet.zip)
+
+---
 
 ### Webs de imágenes
 
-[Game Art 2D](http://www.gameart2d.com/freebies.html)
-[Itch IO](https://itch.io/game-assets/free)
-[Game-icons.net](http://game-icons.net/)
+1. [Game Art 2D](http://www.gameart2d.com/freebies.html)
+2. [Itch IO](https://itch.io/game-assets/free)
+3. [Game-icons.net](http://game-icons.net/)
 
 <!---Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
