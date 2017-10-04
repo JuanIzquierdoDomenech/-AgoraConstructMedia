@@ -4,6 +4,8 @@
 ## Sprite Vs. Spritesheet
 
 * [Recursos para el ejercicio](https://juanizquierdodomenech.github.io/agora.construct.media/resources/ej1_sprite_vs_spritesheet.zip)
+** [Origen](https://ansimuz.itch.io/gothicvania-town)
+
 
 ---
 
