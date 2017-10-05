@@ -10,7 +10,7 @@
 ---
 
 
-### :dancer: Kahoot!'s :dancer:
+### Kahoot!'s
 
 * [Kahoot 1](https://play.kahoot.it/#/k/94d98a38-e6c9-4f03-b05a-ebb6c39f8867)
 
