@@ -1,10 +1,10 @@
 # Recursos para el curso de Construct
 
 
-## Sprite Vs. Spritesheet
+## 10-9-17 Animaciones, pixelart y mirror
 
 * [Recursos para el ejercicio](https://juanizquierdodomenech.github.io/agora.construct.media/resources/ej1_sprite_vs_spritesheet.zip)
-    - [Origen](https://ansimuz.itch.io/gothicvania-town)
+    - [Fuente](https://ansimuz.itch.io/gothicvania-town)
 
 
 ---
