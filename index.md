@@ -19,15 +19,19 @@
 
 * [Lanzar Kahoot 1](https://play.kahoot.it/#/k/94d98a38-e6c9-4f03-b05a-ebb6c39f8867)
 
-### Webs de imágenes
+---
 
-1. [Game Art 2D](http://www.gameart2d.com/freebies.html)
-2. [Itch IO](https://itch.io/game-assets/free)
-3. [Game-icons.net](http://game-icons.net/)
+## Recursos externos
 
-### Webs para música
+- Webs de imágenes
 
-1. [Canal de Youtube _HolFix_](https://www.youtube.com/channel/UC2_gl7WoSGsg7rLvBPTqtEw)
+    1. [Game Art 2D](http://www.gameart2d.com/freebies.html)
+    2. [Itch IO](https://itch.io/game-assets/free)
+    3. [Game-icons.net](http://game-icons.net/)
+
+- Webs para música
+
+    1. [Canal de Youtube _HolFix_](https://www.youtube.com/channel/UC2_gl7WoSGsg7rLvBPTqtEw)
 
 <!---Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
