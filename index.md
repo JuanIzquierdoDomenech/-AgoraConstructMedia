@@ -10,7 +10,7 @@
 
 * [Recursos para el ejercicio](https://juanizquierdodomenech.github.io/agora.construct.media/resources/ej1_sprite_vs_spritesheet.zip)
     - [Fuente](https://ansimuz.itch.io/gothicvania-town)
-    ![Image](https://juanizquierdodomenech.github.io/agora.construct.media/img/ej1_screenshot.png){: height="100px"}
+    ![Image](https://juanizquierdodomenech.github.io/agora.construct.media/img/ej1_screenshot.png){: height="350px"}
 
 
 ---
