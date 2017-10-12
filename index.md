@@ -1,7 +1,13 @@
 # Recursos para el curso de Construct
 
+## 17-10-2017 Movimiento en 8 direcciones
 
-## 10-9-17 Animaciones, pixelart y mirror
+* [Recursos para el ejercicio](https://juanizquierdodomenech.github.io/agora.construct.media/resources/ej2_mov_8_dir.zip)
+    - [Fuente imágenes](https://finalbossblues.itch.io/pixel-shooter-towers-asset-pack)
+    - [Fuente música](https://www.youtube.com/watch?v=-xpqcOCNHjw)
+        - [Canal youtube](https://www.youtube.com/channel/UC2_gl7WoSGsg7rLvBPTqtEw)
+
+## 10-10-2017 Animaciones, pixelart y mirror
 
 * [Recursos para el ejercicio](https://juanizquierdodomenech.github.io/agora.construct.media/resources/ej1_sprite_vs_spritesheet.zip)
     - [Fuente](https://ansimuz.itch.io/gothicvania-town)
