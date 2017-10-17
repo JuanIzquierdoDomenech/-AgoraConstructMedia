@@ -5,7 +5,7 @@
 * [Recursos para el ejercicio](https://juanizquierdodomenech.github.io/agora.construct.media/resources/ej2_mov_8_dir.zip)
     - [Fuente imágenes](https://finalbossblues.itch.io/pixel-shooter-towers-asset-pack)
     - [Fuente música](https://www.youtube.com/watch?v=-xpqcOCNHjw)
-    - [Demo](https://juanizquierdodomenech.github.io/agora.construct.media/demos/Ejercicio17_10_2017/)
+    - [Demo](https://juanizquierdodomenech.github.io/agora.construct.media/demos/Ejercicio17_10_2017/index.html)
 
 ## 10-10-2017 Animaciones, pixelart y mirror
 
