@@ -1,10 +1,11 @@
 # Recursos para el curso de Construct 3
 
-## 17-10-2017 Movimiento en 8 direcciones
+## [17-10-2017, 24-10-2017] Movimiento en 8 direcciones
 
 * [Recursos para el ejercicio](https://juanizquierdodomenech.github.io/agora.construct.media/resources/ej2_mov_8_dir.zip)
     - [Fuente imágenes](https://finalbossblues.itch.io/pixel-shooter-towers-asset-pack)
     - [Fuente música](https://www.youtube.com/watch?v=-xpqcOCNHjw)
+    - [Proyecto base, día 2](https://juanizquierdodomenech.github.io/agora.construct.media/base_projects/4_directions_exercise/Practica4Direcciones_StartingPoint2.c3p)
 
 ## 10-10-2017 Animaciones, pixelart y mirror
 
