@@ -1,6 +1,6 @@
 # Recursos para el curso de Construct 3
 
-## [17-10-2017, 24-10-2017] Movimiento en 8 direcciones
+## [17-10-2017, 24-10-2017, 30-10-2017] Movimiento en 8 direcciones
 
 * [Recursos para el ejercicio](https://juanizquierdodomenech.github.io/agora.construct.media/resources/ej2_mov_8_dir.zip)
     - [Fuente imágenes](https://finalbossblues.itch.io/pixel-shooter-towers-asset-pack)
@@ -8,6 +8,8 @@
     - [Proyecto base, día 2](https://juanizquierdodomenech.github.io/agora.construct.media/base_projects/4_directions_exercise/Practica4Direcciones_StartingPoint2.c3p)
 
 ![Image](https://juanizquierdodomenech.github.io/agora.construct.media/img/tomatina_slime/tomatina_gif.gif){: height="350px"}
+
+* [Lanzar Kahoot!: Después de la tomatina](https://play.kahoot.it/#/k/14984b50-6e26-4392-82a5-22ad021d81cc)
 
 ## 10-10-2017 Animaciones, pixelart y mirror
 
@@ -21,11 +23,9 @@
 ---
 
 
-### Kahoot!'s
+### Otros Kahoot!'s
 
 * [Lanzar Kahoot!: Introducción a Construct](https://play.kahoot.it/#/k/94d98a38-e6c9-4f03-b05a-ebb6c39f8867)
-* [Lanzar Kahoot!: Después de la tomatina](https://play.kahoot.it/#/k/14984b50-6e26-4392-82a5-22ad021d81cc)
-
 
 ---
 
