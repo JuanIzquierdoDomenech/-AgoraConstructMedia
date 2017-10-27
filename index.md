@@ -23,7 +23,9 @@
 
 ### Kahoot!'s
 
-* [Lanzar Kahoot 1](https://play.kahoot.it/#/k/94d98a38-e6c9-4f03-b05a-ebb6c39f8867)
+* [Lanzar Kahoot!: Introducción a Construct](https://play.kahoot.it/#/k/94d98a38-e6c9-4f03-b05a-ebb6c39f8867)
+* [Lanzar Kahoot!: Después de la tomatina](https://play.kahoot.it/#/k/14984b50-6e26-4392-82a5-22ad021d81cc)
+
 
 ---
 
