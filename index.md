@@ -7,7 +7,7 @@
     - [Fuente música](https://www.youtube.com/watch?v=-xpqcOCNHjw)
     - [Proyecto base, día 2](https://juanizquierdodomenech.github.io/agora.construct.media/base_projects/4_directions_exercise/Practica4Direcciones_StartingPoint2.c3p)
 
-![Image](https://juanizquierdodomenech.github.io/agora.construct.media/img/tomatina_slime_screenshot.png){: height="350px"}
+![Image](https://juanizquierdodomenech.github.io/agora.construct.media/img/tomatina_slime/tomatina_gif.gif){: height="350px"}
 
 ## 10-10-2017 Animaciones, pixelart y mirror
 
