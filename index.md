@@ -4,6 +4,8 @@
 
 * [Recursos para el ejercicio](https://juanizquierdodomenech.github.io/agora.construct.media/resources/ej3_space_shooter.zip)
     - [Fuente imágenes](https://ansimuz.itch.io/spaceship-shooter-environment) 
+    * [Recursos alternativos](https://jonathan-so.itch.io/creatorpack)
+        - [Link a los recursos](https://juanizquierdodomenech.github.io/agora.construct.media/resources/ej3_space_shooter2.zip)
 
 ## [17-10-2017, 24-10-2017, 30-10-2017] Tomatina Slime!
 
