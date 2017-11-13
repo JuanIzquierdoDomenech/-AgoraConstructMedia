@@ -44,9 +44,15 @@
     2. [Itch IO](https://itch.io/game-assets/free)
     3. [Game-icons.net](http://game-icons.net/)
 
+
 - Webs para **música**
 
     1. [Canal de Youtube _HolFix_](https://www.youtube.com/channel/UC2_gl7WoSGsg7rLvBPTqtEw)
+
+
+- **Herramientas** online
+
+    1. [Sprite Sheet Decomposer](https://jmsliu.com/products/sprite-sheet-decomposer/)
 
 <!---Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
