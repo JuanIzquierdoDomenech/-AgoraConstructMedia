@@ -1,6 +1,6 @@
 # Recursos para el curso de Construct 3
 
-## [30-10-2017, 7-11-2017, 14-11-2017] Shoot'em up espacial y temporal
+## [30-10-2017, 7-11-2017, 14-11-2017, 21-11-2017] Shoot'em up espacial y temporal
 
 * [Recursos para el ejercicio](https://juanizquierdodomenech.github.io/agora.construct.media/resources/ej3_space_shooter.zip)
     - [Fuente imágenes](https://ansimuz.itch.io/spaceship-shooter-environment) 
