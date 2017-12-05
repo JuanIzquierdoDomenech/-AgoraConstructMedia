@@ -7,6 +7,8 @@
     * [Recursos alternativos](https://jonathan-so.itch.io/creatorpack)
         - [Link a los recursos](https://juanizquierdodomenech.github.io/agora.construct.media/resources/ej3_space_shooter2.zip)
 
+![Image](https://juanizquierdodomenech.github.io/agora.construct.media/img/space_shooter/space_shooter.gif){: height="350px"}
+
 ## [17-10-2017, 24-10-2017, 30-10-2017] Tomatina Slime!
 
 * [Recursos para el ejercicio](https://juanizquierdodomenech.github.io/agora.construct.media/resources/ej2_mov_8_dir.zip)
