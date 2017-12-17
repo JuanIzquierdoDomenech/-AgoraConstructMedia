@@ -42,6 +42,10 @@
 
 ---
 
+## Plugins Construct 3
+
+* [Rex's Construct 3 plugins](https://rexrainbow.github.io/C3RexDoc/plugins.md/site/index.html)
+
 ## Recursos externos
 
 - Webs de **imágenes**
