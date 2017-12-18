@@ -53,6 +53,7 @@
     2. [Itch IO](https://itch.io/game-assets/free)
     3. [Game-icons.net](http://game-icons.net/)
     4. [Kenney](http://kenney.nl/assets)
+    5. [OpenGameArt](https://opengameart.org)
 
 - Webs para **música**
     1. [Canal de Youtube _HolFix_](https://www.youtube.com/channel/UC2_gl7WoSGsg7rLvBPTqtEw)
