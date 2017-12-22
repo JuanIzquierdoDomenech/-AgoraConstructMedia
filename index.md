@@ -1,6 +1,6 @@
 # Recursos para el curso de Construct 3
 
-## 19-12-2017 Metroidvania libre
+## 19-12-2017 Final Super Adventure Fighting HD Remix!
 
 * [Recursos para el ejercicio](https://juanizquierdodomenech.github.io/agora.construct.media/resources/ej4_adventure.zip)
 
