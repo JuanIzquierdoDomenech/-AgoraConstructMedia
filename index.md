@@ -44,7 +44,11 @@
 
 ---
 
-## Plugins Construct 3
+## Plugins y documentación - Construct 3
+
+* [Manual Construct 3](https://www.construct.net/es/make-games/manuals/construct-3)
+
+* [Atajos de teclado Construct 3](https://www.construct.net/es/make-games/manuals/construct-3/interface/keyboard-shortcuts)
 
 * [Rex's Construct 3 plugins](https://rexrainbow.github.io/C3RexDoc/plugins.md/site/index.html)
 
