@@ -5,6 +5,7 @@
 * [Recursos para el ejercicio](https://juanizquierdodomenech.github.io/agora.construct.media/resources/ej4_adventure.zip)
     - [Proyecto base, 09-01-2018](https://juanizquierdodomenech.github.io/agora.construct.media/base_projects/fighting_game/SuperFightingGame_09_01_2018.c3p)
     - [Proyecto base, 30-01-2018](https://juanizquierdodomenech.github.io/agora.construct.media/base_projects/fighting_game/SuperFightingGame_30_01_2018.c3p)
+    - [Proyecto base, 13-02-2018](https://juanizquierdodomenech.github.io/agora.construct.media/base_projects/fighting_game/SuperFightingGame_13_02_2018.c3p)
 
 ## [30-10-2017, 7-11-2017, 14-11-2017, 21-11-2017, 28-11-2017, 5-12-2017] Shoot'em up espacial y temporal
 
