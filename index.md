@@ -67,6 +67,7 @@
 
 - **Herramientas** online
     1. [Sprite Sheet Decomposer](https://jmsliu.com/products/sprite-sheet-decomposer/)
+    2. [Descomponer Gifs](https://es.bloggif.com/gif-extract)
 
 <!---Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
