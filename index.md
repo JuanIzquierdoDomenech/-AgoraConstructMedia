@@ -59,7 +59,7 @@
 
 ![Image](https://juanizquierdodomenech.github.io/agora.construct.media/img/lerp/Lerp.png){: height="350px"}
 
-![Image](https://juanizquierdodomenech.github.io/agora.construct.media/img/lerp/LerpGif.png){: height="350px"}
+![Image](https://juanizquierdodomenech.github.io/agora.construct.media/img/lerp/LerpGif.gif){: height="350px"}
 
 ## Recursos externos
 
