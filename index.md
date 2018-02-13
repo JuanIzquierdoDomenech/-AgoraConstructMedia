@@ -57,6 +57,8 @@
 
 * [Explicación Camera Follow](https://www.scirra.com/tutorials/626/making-a-smooth-following-camera)
 
+![Image](https://juanizquierdodomenech.github.io/agora.construct.media/img/lerp/Lerp.png){: height="350px"}
+
 ## Recursos externos
 
 - Webs de **imágenes**
