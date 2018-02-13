@@ -53,6 +53,8 @@
 
 * [Rex's Construct 3 plugins](https://rexrainbow.github.io/C3RexDoc/plugins.md/site/index.html)
 
+* [Explicación Lerp](https://www.scirra.com/blog/ashley/17/using-lerp-with-delta-time)
+
 ## Recursos externos
 
 - Webs de **imágenes**
