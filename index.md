@@ -55,6 +55,8 @@
 
 * [Explicación Lerp](https://www.scirra.com/blog/ashley/17/using-lerp-with-delta-time)
 
+* [Explicación Camera Follow](https://www.scirra.com/tutorials/626/making-a-smooth-following-camera)
+
 ## Recursos externos
 
 - Webs de **imágenes**
