@@ -81,7 +81,7 @@
 
 ## Contacto
 
-- [juanjesusizquierdodomenech@gmail.com](juanjesusizquierdodomenech@gmail.com)
+- [juanjesusizquierdodomenech@gmail.com](mailto:juanjesusizquierdodomenech@gmail.com)
 
 <!---Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
