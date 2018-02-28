@@ -79,10 +79,12 @@
     1. [Sprite Sheet Decomposer](https://jmsliu.com/products/sprite-sheet-decomposer/)
     2. [Descomponer Gifs](https://es.bloggif.com/gif-extract)
 
-## [Pico-8](https://www.lexaloffle.com/pico-8.php)
+## [Pico-8]
 
-- Demos
-    1. [Squashy](https://juanizquierdodomenech.github.io/agora.construct.media/pico8/squashy)
+![Image](https://www.lexaloffle.com/gfx/lexaloffle-pico8.png){: height="350px"}
+
+- Mis pruebas - demos - intentos
+    1. [Squashy](https://juanizquierdodomenech.github.io/agora.construct.media/pico8/squashy/squashy.html)
 
 ## Contacto
 
