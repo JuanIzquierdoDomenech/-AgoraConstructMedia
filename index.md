@@ -83,6 +83,9 @@
 
 ![Image](https://www.lexaloffle.com/gfx/lexaloffle-pico8.png){: height="350px"}
 
+- Picozine
+    1. PICO-ZINE #1(https://sectordub.itch.io/pico-8-fanzine-1)
+
 - Mis pruebas - demos - intentos
     1. [Squashy](https://juanizquierdodomenech.github.io/agora.construct.media/pico8/squashy/squashy.html)
 
