@@ -81,7 +81,7 @@
 
 ## [Pico-8]
 
-![Image](https://www.lexaloffle.com/gfx/lexaloffle-pico8.png){: height="350px"}
+![Image](https://www.lexaloffle.com/gfx/lexaloffle-pico8.png){: height="128px"}
 
 - Picozine
     1. PICO-ZINE #1(https://sectordub.itch.io/pico-8-fanzine-1)
