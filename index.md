@@ -85,6 +85,9 @@
 
 - Picozine
     1. [PICO-ZINE #1](https://sectordub.itch.io/pico-8-fanzine-1)
+    2. [PICO-ZINE #2](https://sectordub.itch.io/pico-8-fanzine-2)
+    3. [PICO-ZINE #3](https://sectordub.itch.io/pico-8-fanzine-3)
+    4. [PICO-ZINE #4](https://sectordub.itch.io/pico-8-fanzine-4)
 
 - Mis pruebas - demos - intentos
     1. [Squashy](https://juanizquierdodomenech.github.io/agora.construct.media/pico8/squashy/squashy.html)
