@@ -91,6 +91,7 @@
 
 - Mis pruebas - demos - intentos
     1. [Squashy](https://juanizquierdodomenech.github.io/agora.construct.media/pico8/squashy/squashy.html)
+    2. [Dist 2D](https://juanizquierdodomenech.github.io/agora.construct.media/pico8/dist2d/dist2d.html)
 
 ## Contacto
 
