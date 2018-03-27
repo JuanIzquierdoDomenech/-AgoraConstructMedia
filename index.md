@@ -97,7 +97,8 @@
     2. [Dist 2D](https://juanizquierdodomenech.github.io/agora.construct.media/pico8/dist2d/dist2d.html)
 
 - [Cheat Sheet](https://imgur.com/iGrP5bK)
-    - ![Image](https://juanizquierdodomenech.github.io/agora.construct.media/img/pico8/cs.png){: height="350px"}
+
+![Image](https://juanizquierdodomenech.github.io/agora.construct.media/img/pico8/cs.png){: height="350px"}
 
 ## Contacto
 
