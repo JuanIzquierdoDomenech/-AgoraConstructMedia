@@ -49,6 +49,12 @@
 
 ---
 
+## Subir a la Scirra Arcade
+
+* [Scirra arcade](https://www.scirra.com/arcade/top-addicting-games)
+
+* [Gúia para subir nuestro juego](https://juanizquierdodomenech.github.io/agora.construct.media/resources/subir_scirra_arcade/SubirScirra.pdf)
+
 ## Plugins y documentación - Construct 3
 
 * [Manual Construct 3](https://www.construct.net/es/make-games/manuals/construct-3)
