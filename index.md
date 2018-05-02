@@ -53,7 +53,11 @@
 
 * [Scirra arcade](https://www.scirra.com/arcade/top-addicting-games)
 
-* [Gúia para subir nuestro juego](https://juanizquierdodomenech.github.io/agora.construct.media/resources/subir_scirra_arcade/SubirScirra.pdf)
+* [Guía para subir nuestro juego](https://juanizquierdodomenech.github.io/agora.construct.media/resources/subir_scirra_arcade/SubirScirra.pdf)
+
+## Exportar juego a HTML5
+
+* [Guía para exportar nuestro juego a HTML5](https://juanizquierdodomenech.github.io/agora.construct.media/resources/subir_scirra_arcade/ExportarHTML.pdf)
 
 ## Plugins y documentación - Construct 3
 
