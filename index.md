@@ -109,7 +109,7 @@
 
 - [Cheat Sheet](https://imgur.com/iGrP5bK)
 
-![Image](https://juanizquierdodomenech.github.io/agora.construct.media/img/pico8/cs.png){: height="350px"}
+![Image](https://juanizquierdodomenech.github.io/agora.construct.media/img/pico8/cs.png){: height="350px" align="center"}
 
 - Otros enlaces
     1. [awesome-PICO-8](https://github.com/felipebueno/awesome-PICO-8)
