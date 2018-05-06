@@ -107,6 +107,9 @@
 
 ![Image](https://juanizquierdodomenech.github.io/agora.construct.media/img/pico8/cs.png){: height="350px"}
 
+- Otros enlaces
+    1. [awesome-PICO-8](https://github.com/felipebueno/awesome-PICO-8)
+
 ## Contacto
 
 - [juanjesusizquierdodomenech@gmail.com](mailto:juanjesusizquierdodomenech@gmail.com)
