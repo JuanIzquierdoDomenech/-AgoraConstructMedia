@@ -1,8 +1,8 @@
 # Recursos para el curso de Construct 3
 
-## Concurso
+## Concurso EPSA 2018
 
-- [Gerard Duenyas, Color Blocks](https://juanizquierdodomenech.github.io/agora.construct.media/resources/games_contest_2018/gerard_duenyas/)
+- [Gerard Dueñas, Color Blocks](https://juanizquierdodomenech.github.io/agora.construct.media/resources/games_contest_2018/gerard_duenyas/)
 
 ## 19-12-2017 Final Super Adventure Fighting HD Remix!
 
