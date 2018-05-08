@@ -1,5 +1,9 @@
 # Recursos para el curso de Construct 3
 
+## Concurso
+
+- [Gerard Duenyas, Color Blocks](https://juanizquierdodomenech.github.io/agora.construct.media/resources/games_contest_2018/gerard_duenyas/)
+
 ## 19-12-2017 Final Super Adventure Fighting HD Remix!
 
 * [Recursos para el ejercicio](https://juanizquierdodomenech.github.io/agora.construct.media/resources/ej4_adventure.zip)
