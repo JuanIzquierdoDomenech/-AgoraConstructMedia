@@ -2,7 +2,7 @@
 
 ## Concurso de videojuegos EPSA 2018
 
-- [**Marc Tur**, blablabla](https://juanizquierdodomenech.github.io/agora.construct.media/resources/games_contest_2018/marc_tur/)
+- [**Marc Tur**, América vs Corea](https://juanizquierdodomenech.github.io/agora.construct.media/resources/games_contest_2018/marc_tur/)
 - [**Gerard Dueñas**, Color Blocks](https://juanizquierdodomenech.github.io/agora.construct.media/resources/games_contest_2018/gerard_duenyas/)
 - [**Andreu Francés**, blablabla](https://juanizquierdodomenech.github.io/agora.construct.media/resources/games_contest_2018/andreu_frances/)
 - [**Rober Pérez**, blablabla](https://juanizquierdodomenech.github.io/agora.construct.media/resources/games_contest_2018/rober_perez/)
