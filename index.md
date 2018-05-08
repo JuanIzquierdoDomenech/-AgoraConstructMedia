@@ -2,13 +2,13 @@
 
 ## Concurso de videojuegos EPSA 2018
 
-- [Marc Tur, blablabla](https://juanizquierdodomenech.github.io/agora.construct.media/resources/games_contest_2018/marc_tur/)
-- [Gerard Dueñas, Color Blocks](https://juanizquierdodomenech.github.io/agora.construct.media/resources/games_contest_2018/gerard_duenyas/)
-- [Andreu Francés, blablabla](https://juanizquierdodomenech.github.io/agora.construct.media/resources/games_contest_2018/andreu_frances/)
-- [Rober Pérez, blablabla](https://juanizquierdodomenech.github.io/agora.construct.media/resources/games_contest_2018/rober_perez/)
-- [Jordi Llinares, blablabla](https://juanizquierdodomenech.github.io/agora.construct.media/resources/games_contest_2018/jordi_llinares/)
-- [Nakor Pérez, blablabla](https://juanizquierdodomenech.github.io/agora.construct.media/resources/games_contest_2018/nakor_perez/)
-- [César Carrión, blablabla](https://juanizquierdodomenech.github.io/agora.construct.media/resources/games_contest_2018/cesar_carrion/)
+- [**Marc Tur**, blablabla](https://juanizquierdodomenech.github.io/agora.construct.media/resources/games_contest_2018/marc_tur/)
+- [**Gerard Dueñas**, Color Blocks](https://juanizquierdodomenech.github.io/agora.construct.media/resources/games_contest_2018/gerard_duenyas/)
+- [**Andreu Francés**, blablabla](https://juanizquierdodomenech.github.io/agora.construct.media/resources/games_contest_2018/andreu_frances/)
+- [**Rober Pérez**, blablabla](https://juanizquierdodomenech.github.io/agora.construct.media/resources/games_contest_2018/rober_perez/)
+- [**Jordi Llinares**, blablabla](https://juanizquierdodomenech.github.io/agora.construct.media/resources/games_contest_2018/jordi_llinares/)
+- [**Nakor Pérez**, blablabla](https://juanizquierdodomenech.github.io/agora.construct.media/resources/games_contest_2018/nakor_perez/)
+- [**César Carrión**, blablabla](https://juanizquierdodomenech.github.io/agora.construct.media/resources/games_contest_2018/cesar_carrion/)
 
 
 ## 19-12-2017 Final Super Adventure Fighting HD Remix!
