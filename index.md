@@ -6,7 +6,7 @@
 - [**Gerard Dueñas**, Color Blocks](https://juanizquierdodomenech.github.io/agora.construct.media/resources/games_contest_2018/gerard_duenyas/)
 - [**Andreu Francés**, Metal Slug](https://juanizquierdodomenech.github.io/agora.construct.media/resources/games_contest_2018/andreu_frances/)
 - [**Rober Pérez**, Cowboys vs Zombies](https://juanizquierdodomenech.github.io/agora.construct.media/resources/games_contest_2018/rober_perez/)
-- [**Jordi Llinares**, blablabla](https://juanizquierdodomenech.github.io/agora.construct.media/resources/games_contest_2018/jordi_llinares/)
+- [**Jordi Llinares**, Rally-x](https://juanizquierdodomenech.github.io/agora.construct.media/resources/games_contest_2018/jordi_llinares/)
 - [**Nakor Pérez**, blablabla](https://juanizquierdodomenech.github.io/agora.construct.media/resources/games_contest_2018/nakor_perez/)
 - [**César Carrión**, blablabla](https://juanizquierdodomenech.github.io/agora.construct.media/resources/games_contest_2018/cesar_carrion/)
 
