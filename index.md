@@ -8,7 +8,7 @@
 - [**Rober Pérez**, Cowboys vs Zombies](https://juanizquierdodomenech.github.io/agora.construct.media/resources/games_contest_2018/rober_perez/)
 - [**Jordi Llinares**, Rally-x](https://juanizquierdodomenech.github.io/agora.construct.media/resources/games_contest_2018/jordi_llinares/)
 - [**Nakor Pérez**, Dragon Ball](https://juanizquierdodomenech.github.io/agora.construct.media/resources/games_contest_2018/nakor_perez/)
-- [**César Carrión**, blablabla](https://juanizquierdodomenech.github.io/agora.construct.media/resources/games_contest_2018/cesar_carrion/)
+- [**César Carrión**, Exak](http://www.digi4social.eu/exak/)
 
 
 ## 19-12-2017 Final Super Adventure Fighting HD Remix!
