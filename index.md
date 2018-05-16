@@ -58,6 +58,8 @@
 
 * [Lanzar Kahoot!: Introducción a Construct](https://play.kahoot.it/#/k/94d98a38-e6c9-4f03-b05a-ebb6c39f8867)
 
+* [Lanzar Kahoot!: Repaso introductorio a Pico 8](https://play.kahoot.it/#/?quizId=6cf9b9a0-1fdb-46eb-ac58-4bb019b291a8)
+
 ---
 
 ## Subir a la Scirra Arcade
