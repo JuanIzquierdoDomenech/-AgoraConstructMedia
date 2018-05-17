@@ -126,6 +126,7 @@
 
 - Otros enlaces
     1. [awesome-PICO-8](https://github.com/felipebueno/awesome-PICO-8)
+    2. [Pico-8 Wiki](http://pico-8.wikia.com/wiki/APIReference)
 
 ## Contacto
 
