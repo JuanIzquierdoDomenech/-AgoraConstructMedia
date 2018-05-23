@@ -119,6 +119,7 @@
     1. [Squashy](https://juanizquierdodomenech.github.io/agora.construct.media/pico8/squashy/squashy.html)
     2. [Dist 2D](https://juanizquierdodomenech.github.io/agora.construct.media/pico8/dist2d/dist2d.html)
     3. [Sin weave, by AGC and JJI](https://juanizquierdodomenech.github.io/agora.construct.media/pico8/weave/sin.html)
+    4. [Bounding Box Collision Detection](https://juanizquierdodomenech.github.io/agora.construct.media/pico8/collision_detect/collision_detect_bb.html)
 
 - [Cheat Sheet](https://imgur.com/iGrP5bK)
 
