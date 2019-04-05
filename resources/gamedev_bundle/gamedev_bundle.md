@@ -35,7 +35,7 @@
   - [8-Bit Tunes 8-Pack](https://juanizquierdodomenech.github.io/agora.construct.media/resources/gamedev_bundle/resources/8bittunes8pack_windows.zip)
   - [Pixel Art Sci-fi Space Station](https://juanizquierdodomenech.github.io/agora.construct.media/resources/gamedev_bundle/resources/PixelArtScifiSpaceStation.zip)
   - [Pixel Art Forest Kit](https://juanizquierdodomenech.github.io/agora.construct.media/resources/gamedev_bundle/resources/PixelArtForestv1_1.zip)
-  - [Fantasy Forest Pixel Art Tileset(https://juanizquierdodomenech.github.io/agora.construct.media/resources/gamedev_bundle/resources/FantasyForestNA.zip)
+  - [Fantasy Forest Pixel Art Tileset](https://juanizquierdodomenech.github.io/agora.construct.media/resources/gamedev_bundle/resources/FantasyForestNA.zip)
   - [Space Package](https://juanizquierdodomenech.github.io/agora.construct.media/resources/gamedev_bundle/resources/spacepackage_windows.zip)
   - [Simple Pirate Characters](https://juanizquierdodomenech.github.io/agora.construct.media/resources/gamedev_bundle/resources/SimplePirateCharacters.zip)
   - [Zombie Characters](https://juanizquierdodomenech.github.io/agora.construct.media/resources/gamedev_bundle/resources/ZombieCharacters.zip)
