@@ -1,12 +1,12 @@
 pico-8 cartridge // http://www.pico-8.com
 version 18
 __lua__
-
-
 function _init()
  cls()
  x=64
- y=0
+ y=64
+ 
+-- gravity
 -- dy=0
 -- g=1
 end
@@ -33,6 +33,7 @@ function _update()
   y=y+1
  end
  
+-- gravity
 -- dy=dy+1
 -- y=y+dy
 end
